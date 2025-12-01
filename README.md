@@ -60,7 +60,7 @@
 
 ## 📡 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/akash-ghosh-15463235a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akash-ghosh-15463235a?utm_source=share&utm_campaign=share_via&utm_content=profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="http://www.youtube.com/@Lord_Akash69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
 </p>
