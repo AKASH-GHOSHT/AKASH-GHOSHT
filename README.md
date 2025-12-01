@@ -22,31 +22,33 @@
 ---
 
 ## ⚔ Tech Arsenal
+<!-- Top row: tech badges -->
 <div align="center">
-
-| Language / Tool | Badge |
-|-----------------|-------|
-| Python | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| C | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| Git | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-| GitHub | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+
 
 ---
 
 ## ☣ Hacker-Mode Stats
+<!-- GitHub quick stats via shields (always works) -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKASH-GHOSHT&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-GHOSHT&theme=radical" />
+  <img src="https://img.shields.io/github/followers/AKASH-GHOSHT?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/AKASH-GHOSHT?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/AKASH-GHOSHT/AKASH-GHOSHT?label=Repo%20Size&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/AKASH-GHOSHT/AKASH-GHOSHT?label=Last%20Commit&style=for-the-badge" />
 </p>
 
+<!-- Streak (your Heroku one you said works) -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-GHOSHT&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-GHOSHT&theme=radical" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
