@@ -59,9 +59,9 @@
 ---
 
 <div>
-## 🌟 My Interests
+🌟 My Interests
 
-### 🎬 Anime ### ✏️ Pencil Sketching ### 📸 Photography ### 🧩 Problem Solving ### 🍵 Tea Lover
+🎬 Anime ✏️ Pencil Sketching 📸 Photography 🍵 Tea Lover
 </div>
 
 ## 📡 Connect With Me
