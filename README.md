@@ -7,7 +7,7 @@
 <h3 align="center">🛡 Problem Solver • Pythonist • Code Craftsman</h3>
 
 <p align="center">
-  <img src="PROFILE_PIC_LINK" width="150" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/736x/22/78/b1/2278b1625e5cfd074ea681dd1c4cf0a6.jpg" width="150" style="border-radius:50 %;" />
 </p>
 
 ---
