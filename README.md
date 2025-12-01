@@ -61,7 +61,7 @@
 <div>
 ## 🌟 My Interests
 
-### 🎬 Anime### ✏️ Pencil Sketching### 📸 Photography### 🧩 Problem Solving### 🕶️ Hacker-Style Tech### 🍵 Tea Lover
+### 🎬 Anime ### ✏️ Pencil Sketching ### 📸 Photography ### 🧩 Problem Solving ### 🍵 Tea Lover
 </div>
 
 ## 📡 Connect With Me
