@@ -56,6 +56,9 @@
   <img src="https://raw.githubusercontent.com/AKASH-GHOSHT/AKASH-GHOSHT/output/snake.svg" />
 </p>
 ![Metrics](./metrics.svg)
+![Metrics](dist/metrics.svg)
+![Metrics](.github/metrics.svg)
+![Metrics](output/metrics.svg)
 
 ---
 
