@@ -1,4 +1,4 @@
-name: GitHub Metrics Cool Card
+name: GitHub Metrics Cool Card 
 
 on:
   schedule: 
