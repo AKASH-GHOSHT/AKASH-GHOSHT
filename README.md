@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <b>⚡ "Code. Break. Fix. Repeat." ⚡</b>
+  <b>⚡ Code. Break. Fix. Repeat. ⚡</b>
 </p>
