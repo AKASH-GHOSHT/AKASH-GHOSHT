@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/0e/6d/7c/0e6d7cad728fe1dcf15b5eed3205ff03.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/29/54/c8/2954c83eb07a021e98230136f50781d8.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👾 Akash Kumar Ghosh aka Sunny</h1>
@@ -39,8 +39,8 @@
 
 ## ☣ Hacker-Mode Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKASH_GHOSHT&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH_GHOSHT&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKASH-GHOSHT&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-GHOSHT&theme=radical" />
 </p>
 
 <p align="center">
