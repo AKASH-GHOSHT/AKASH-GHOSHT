@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="center">
+<p align="center"> 
   <img src="https://i.pinimg.com/1200x/29/54/c8/2954c83eb07a021e98230136f50781d8.jpg" alt="Banner" width="100%" />
 </p>
 
